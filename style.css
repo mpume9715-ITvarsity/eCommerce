@@ -9,7 +9,7 @@ h1{
     
 }
 
-h2{ text-align: center;
+h2{ text-align: left;
     font-family: monospace;
     font-weight: 200;
     font-style: italic;
@@ -29,8 +29,8 @@ p{
     text-align: end
 }
 
-#menu a{
-    color: #ffffff;
+#menu a: hover{
+    color: baby blue;
     font-family: Helvetica, sans-serif;
     
 }
